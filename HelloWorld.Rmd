@@ -1,0 +1,13 @@
+---
+title: "HelloWord"
+author: "Alejandro Herrera"
+date: "10/24/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## This is a markdown file
+
+Hello from Costa Rica!
